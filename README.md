@@ -1,1 +1,1 @@
-# sql_Vashyashala_management
+# sql_Vadhyashala_management
